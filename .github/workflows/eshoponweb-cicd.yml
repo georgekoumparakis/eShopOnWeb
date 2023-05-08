@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-github
   LOCATION: UK South
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: a60f9f9f-f0e6-4958-a8ee-3af33a26d01e
+  SUBSCRIPTION-ID: 8233ae12-6cf0-4aa9-b66f-25847338e01e
   WEBAPP-NAME: az400-webapp-gcubajunior
 
 
